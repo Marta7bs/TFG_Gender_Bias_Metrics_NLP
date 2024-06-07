@@ -22,12 +22,7 @@ A brief explanation of the folders in this repository:
 
 ### Installation
 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/yourusername/TFG_Gender_Bias_Metrics_NLP.git
-    cd TFG_Gender_Bias_Metrics_NLP
-    ```
-
+1. Clone the repository.
 2. Install the required libraries.
 
 ### Usage
