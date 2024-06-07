@@ -6,7 +6,7 @@ This project performs Gender Bias analysis in Spanish sports press using a Word2
 
 A brief explanation of the folders in this repository:
 
-* **Web scraping**: Contains the code to extract news from the newspapers Marca, As, Mundo Deportivo. There is a different script for each of the newspapers.
+* **Web scraping**: Contains the code to extract news from the newspapers. There is a different script for each of the newspapers.
 * **Analysis**:
   * **Preprocess_pipeline.ipynb**: Script to perform data preprocessing from the scraped data and Word2Vec model construction. 
   * **Nouns**: Contains lists of feminine and masculine nouns to train an SVC classifier for grammatical gender disentanglement.
